@@ -1,2 +1,3 @@
 Bienvenido a git
 Jose Acevedo
+- Resido en Lima - Villa Maria del Triunfo
